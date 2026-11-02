@@ -5,8 +5,8 @@ About five minutes. Do this on a laptop, signed in to chatgpt.com.
 1. Click **Projects** in the left sidebar, then **New project**.
 2. Name it after your business, for example "Harbour & Co AI System".
 3. Open the project's **instructions** and paste in everything below the line in *Project Instructions.md*. Replace [Business name] with yours.
-4. Open the project's **files** and add the three agent files from the *1 Agents* folder. Do not add the blank templates.
-5. Start a new chat inside the project and type your website address.
+4. Open the project's **files** and add the four agent files from the *1 Agents* folder (not the New Agent Template). Do not add the blank templates.
+5. Start a new chat inside the project and type **/research** followed by your website address.
 
 ## As you go
 

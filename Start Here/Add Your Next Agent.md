@@ -1,6 +1,6 @@
 # Add Your Next Agent
 
-Three agents is a start. Our own system began with three and now runs dozens. Each one does one job well, and they hand work to each other through files.
+Four agents is a start. Our own system began with three and now runs dozens. Each one does one job well, and they hand work to each other through files.
 
 ## Before you build one
 
@@ -14,7 +14,14 @@ Pick a job you do every week that follows roughly the same steps. If you cannot 
 4. **A file it produces**, in the same shape every time.
 5. **A handover.** Where the file is saved, and which agent reads it next.
 
-Use *1 Agents/New Agent Template.md* to write it. Save it in *1 Agents* and add it to your project.
+Use *1 Agents/New Agent Template.md* to write it. Then give it a command:
+
+1. Save it in *1 Agents*, for example "5 Pitch Builder.md".
+2. Add it to your project's files.
+3. Add one line to the commands table in your project instructions: `| /pitch | Pitch Builder | 5 Pitch Builder.md | Builds a pitch from the Business File |`
+4. Type **/pitch** to run it.
+
+Using the Claude plugin? See the end of *Setup for Claude.md*.
 
 ## Ideas for your next agent
 
@@ -27,7 +34,7 @@ Use *1 Agents/New Agent Template.md* to write it. Save it in *1 Agents* and add 
 
 ## Let the system tell you
 
-When you keep asking an agent for something outside its job, that is the signal to build a new agent, not to stretch the old one. An agent that tries to do everything ends up doing nothing well.
+When you keep asking an agent for something outside its job, that is the signal to build a new agent, not to stretch the old one. An agent that tries to do everything ends up doing nothing well. The Optimiser looks for this every week: type **/optimise**.
 
 ## Ask for help building it
 

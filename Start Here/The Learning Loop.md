@@ -13,9 +13,15 @@ Nobody gets their system right on day one. It gets better every time you use it,
 
 Skip step four and the next draft makes the same mistake. That ten second step is how the system learns.
 
-## Check how it is learning
+## Run the Optimiser every Friday
 
-Every file has a **Changes log** at the bottom. Read it once a month. It shows what the system has learned about you, and where it still gets you wrong.
+Type **/optimise**. It reads everything in your Business Brain and tells you the three things that would help most: questions you never answered, great input still missing, files that have gone stale, and feedback you keep repeating because a file was not saved back.
+
+Nothing in the system runs on its own. Ten minutes on a Friday is what keeps it learning.
+
+## Check the Changes logs
+
+Every file has a **Changes log** at the bottom. It shows what the system has learned about you, and where it still gets you wrong.
 
 ## When to start again
 

@@ -1,0 +1,7 @@
+{
+  "name": "brain",
+  "version": "1.0.0",
+  "description": "Business Brain: four agents that learn your business, learn how you sound, write content in your voice and keep improving. Commands: /brain:start, /brain:research, /brain:tone, /brain:write, /brain:optimise.",
+  "author": { "name": "Wade Eagar and Nadeem Ibrahim" },
+  "homepage": "https://github.com/MENAMarketer/BusinessBrain"
+}

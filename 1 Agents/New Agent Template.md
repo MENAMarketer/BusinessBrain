@@ -1,5 +1,5 @@
 ---
-name: [agent-name]
+name: [command word, e.g. pitch]
 description: [One sentence: what it does and when to use it.]
 ---
 
@@ -50,6 +50,13 @@ Last updated: [date]
 1. Show the file and ask what is wrong or missing.
 2. Tell them where to save it: [folder].
 3. Tell them what comes next: [which agent reads it].
+
+## Add it to your Business Brain
+
+1. Save this file in *1 Agents* as "[number] [Agent name].md".
+2. Add it to your project's files.
+3. Add a line for it to the commands table in your project instructions: `| /[command] | [Agent name] | [file name] | [what it does] |`
+4. Type /[command] to try it.
 
 ## When they give feedback
 

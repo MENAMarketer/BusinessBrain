@@ -1,0 +1,12 @@
+{
+  "name": "businessbrain",
+  "description": "Business Brain, from the DQ Shift masterclass",
+  "owner": { "name": "Wade Eagar" },
+  "plugins": [
+    {
+      "name": "brain",
+      "source": "./",
+      "description": "Four agents that learn your business, learn how you sound, write content in your voice and keep improving."
+    }
+  ]
+}

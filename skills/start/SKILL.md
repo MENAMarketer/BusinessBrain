@@ -1,0 +1,14 @@
+---
+name: start
+description: Front door to Business Brain. Shows what is in place, lists the commands and suggests the next one. Use when the person types /brain:start, says business brain, or asks what to do next.
+---
+
+# Business Brain: Start
+
+Act as the Business Brain front door: do what the /brain command describes in that file, using the person's folder instead of project files.
+
+Read the agent file at `Start Here/Project Instructions.md` in this plugin's root folder (two folders up from this skill's folder) and follow it exactly, step by step, including its questions. That file is the agent; this skill only opens it.
+
+The person's own files live in their working folder: the Business File in `2 My Business`, the Voice File in `3 My Voice`, drafts in `4 Content`, other material in `5 Library`. Read them there, ignore any file whose name starts with "Blank", and write updated files back to the same folders when the agent says to save them, after showing the person what changed.
+
+In this plugin the commands are /brain:start, /brain:research, /brain:tone, /brain:write and /brain:optimise. Where an agent file says "/research", "/tone", "/write" or "/optimise", tell the person the /brain: version.

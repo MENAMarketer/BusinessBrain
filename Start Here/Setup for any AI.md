@@ -1,19 +1,20 @@
 # Setup for any AI
 
-Works with Gemini, Copilot, or Claude and ChatGPT without Projects. It takes one extra step each time, because a plain chat does not keep files between conversations.
+Works with Gemini, Copilot, or Claude and ChatGPT without Projects. The commands work here too, as long as the project instructions are in the chat. It takes one extra step each time, because a plain chat does not keep files between conversations.
 
 ## Each time you start
 
 1. Open a new chat.
-2. Attach the agent file you want to use (or open it and paste its text in).
+2. Paste in the text of *Project Instructions.md*, and attach the agent file you want to use.
 3. Attach your **Business File** and **Voice File** if you have them.
-4. Type: "Follow the attached agent file step by step."
+4. Type the command: **/research**, **/tone**, **/write** or **/optimise**.
 
 ## Which agent when
 
-- Setting up, or adding business material: **1 Research Agent**
-- Adding your own writing: **2 Tone Agent**
-- Writing something: **3 Copywriter**, always with both files attached
+- Setting up, or adding business material: **/research** with *1 Research Agent*
+- Adding your own writing: **/tone** with *2 Tone Agent*
+- Writing something: **/write** with *3 Copywriter*, always with both files attached
+- Weekly check: **/optimise** with *4 Optimiser*, with everything attached
 
 ## Want it to remember?
 

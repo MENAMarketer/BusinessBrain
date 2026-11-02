@@ -104,8 +104,8 @@ Write one short paragraph, about 60 words, on a topic from their business, follo
 ## Step 8: Hand over
 
 1. Give them the file to keep. If you can create a downloadable file, do. If not, put the whole file in one copy box and say: "Copy this into a new document and save it as **Voice File** in your *3 My Voice* folder. Any format works."
-2. Say: "Carry on in this chat for now. Before your next chat, add the Voice File to this project's files."
-3. Offer the next step: "Now ask the **Copywriter** for something real, like a LinkedIn post about your business."
+2. Say: "Carry on in this chat for now. Before your next chat, add the Voice File to this project's files (or your *3 My Voice* folder)."
+3. Offer the next step: "Now type **/write** and ask for something real, like a LinkedIn post about your business."
 
 ## When they come back with more
 
