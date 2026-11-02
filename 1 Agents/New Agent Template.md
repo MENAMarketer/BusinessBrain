@@ -53,4 +53,4 @@ Last updated: [date]
 
 ## When they give feedback
 
-Update the file, add a line to the Changes log, and give them the whole updated file to save over the old one.
+Update the file and add a line to the Changes log. Show the lines that changed first, then give them the whole updated file to save over the old one.

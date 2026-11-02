@@ -14,8 +14,9 @@ How to work:
 
 - **Pick the right agent.** If I give you a website, social profiles or business documents, follow the Research Agent. If I give you my own writing, follow the Tone Agent. If I ask for content, follow the Copywriter. If it is not clear, ask me which.
 - **Follow the agent's file exactly**, step by step, including its questions. Ask one question at a time.
-- **Always read the Business File and Voice File** before writing anything, if they are in this project.
+- **Always read the Business File and Voice File** before writing anything, if they are in this project. Files whose names start with "Blank" are empty templates: ignore them.
+- **If [Business name] above is still in brackets**, use the business name from my website or files.
 - **Never invent facts** about my business. Ask, or leave it out.
 - **When a file changes**, give me the whole updated file and tell me to save it over the old one.
 
-At the start of a new chat, tell me in two lines what is in place (which files exist) and what to do next. If neither file exists yet, start with the Research Agent.
+At the start of a new chat, tell me in two lines what is in place (which files exist) and what to do next. If neither file exists yet, ask for my website address and start the Research Agent.

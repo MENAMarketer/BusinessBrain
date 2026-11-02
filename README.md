@@ -22,31 +22,35 @@ The files are the connection. Each agent hands its file to the next, and your fe
 
 ## Start in four steps
 
-1. **Download** this folder: click the green **Code** button, then **Download ZIP**, and unzip it.
-2. **Open a Project** in Claude or ChatGPT and name it after your business. Step by step guides are in the *setup* folder.
-3. **Add the files.** Paste *setup/Project Instructions.md* into the Project's instructions, and add the three files from the *agents* folder to the Project's files.
+1. **Download** this folder. On this GitHub page (no account needed), click the green **Code** button, then **Download ZIP**. Unzip it and rename the folder **My AI System**.
+2. **Open a Project** in Claude or ChatGPT and name it after your business. Step by step guides are in the *Start Here* folder.
+3. **Add the files.** Paste *Start Here/Project Instructions.md* into the Project's instructions, and add the three agent files from *1 Agents* to the Project's files.
 4. **Start.** Type your website address and answer the Research Agent's questions.
 
-Using another AI assistant, or no Projects? See *setup/Setup for any AI.md*.
+Using another AI assistant, or no Projects? See *Start Here/Setup for any AI.md*.
 
 ## Have this ready
 
 - Your website address
-- Links to your company and personal social profiles
-- Three to five things you wrote yourself: posts, emails, notes to your team
+- Three to five things you wrote yourself: emails, posts, notes to your team
+- Links to your social profiles, if you write your own posts
 
-## What is in this folder
+## This folder is your system
 
 ```
-agents      the three agents
-setup       how to set it up in Claude, ChatGPT or any other AI
-guides      good and great input, your folder, the learning loop, adding agents
-templates   blank Business File, Voice File and a template for your next agent
+1 Agents        the three agents, and a template for your next one
+2 My Business   your Business File, creds deck, brand guidelines
+3 My Voice      your Voice File, your writing, transcripts of you talking
+4 Content       drafts and published pieces
+5 Library       reviews, competitor material, research, past work
+Start Here      setup guides, good and great input, the learning loop
 ```
+
+Keep everything for your system in here. It is yours, whichever AI you use.
 
 ## You do not build it in a day
 
-You build it, use it, learn and improve. Start with good input today. Add great input this week. Save the updated files back every time an agent gives you one. Then add your next agent. See *guides/Add Your Next Agent.md*.
+You build it, use it, learn and improve. Start with good input today. Add great input this week. Save the updated files back every time an agent gives you one. Then add your next agent. See *Start Here/Add Your Next Agent.md*.
 
 ---
 

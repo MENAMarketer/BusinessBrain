@@ -6,7 +6,7 @@ The agents are only as good as what you give them. A better prompt will not fix 
 
 | Agent | Good: today | Great: this week |
 |---|---|---|
-| **Research Agent** | Your website. Your company LinkedIn page. One line on what you sell and who buys | Your own social profiles. Three competitors you lose to. Your creds deck, company profile or brand guidelines. Customer reviews. The questions customers ask most |
+| **Research Agent** | Your website. One line on what you sell and who buys | Your company and personal social profiles. Three competitors you lose to. Your creds deck, company profile or brand guidelines. Customer reviews. The questions customers ask most |
 | **Tone Agent** | Three to five things you wrote yourself | 10 to 20 pieces of different types. A transcript of you talking. Words you use and words you never use. A piece you hated and why |
 | **Copywriter** | The topic. Who it is for. Where it is going | Your view in a sentence. One story or number from your own work. What the reader should do next. Posts you admired |
 

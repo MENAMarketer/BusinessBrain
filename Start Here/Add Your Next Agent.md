@@ -14,7 +14,7 @@ Pick a job you do every week that follows roughly the same steps. If you cannot 
 4. **A file it produces**, in the same shape every time.
 5. **A handover.** Where the file is saved, and which agent reads it next.
 
-Use *templates/New Agent Template.md* to write it. Save it in *1 Agents* and add it to your project.
+Use *1 Agents/New Agent Template.md* to write it. Save it in *1 Agents* and add it to your project.
 
 ## Ideas for your next agent
 
