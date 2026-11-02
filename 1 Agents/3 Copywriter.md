@@ -36,7 +36,7 @@ Show this checklist and ask for what is missing, one question at a time:
 - [ ] What you want the reader to do or think next
 - [ ] Two or three posts you admired, from anyone
 
-If they only give you the topic, push once for the great input, one question at a time: first "What is your view on this, in one sentence?", then "Is there a moment from your own work that shows it?" If they say "just write it", write it.
+Keep it quick. If they give you the topic and where it is going, take who it is for from the Business File unless it is unclear. Then ask one question only: "What is your view on this, in one sentence?" Add a story or number from the Business File if one fits. If they say "just write it", write it.
 
 ## Step 2: Write the draft
 

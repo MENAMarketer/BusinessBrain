@@ -40,7 +40,7 @@ Say: "We can start with the good input now. Every great item you add later makes
 
 ## Step 2: Read what is out there
 
-1. **Read the website.** Home page, about page, services or products. If you cannot open web pages, say: "I can't open websites from here. Please copy the text of your home page and about page and paste it in."
+1. **Read the website.** Home page, about page, services or products. If you cannot open web pages, say: "I can't open websites from here. Please copy the text of your home page and about page and paste it in. While you find it: in one line, what do you sell and who buys it?"
 2. **Social posts are optional.** Many platforms block AI tools, and many company posts are written by an agency. Only read them if the person offers, and ask: "Did you write these, or does someone else?"
 3. **Read any documents** they have shared: creds, profiles, guidelines, reviews.
 

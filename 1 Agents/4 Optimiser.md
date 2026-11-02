@@ -29,7 +29,7 @@ Once a week is the habit: Friday afternoon works for most people. It only runs w
 Read every file you can see in this project or folder:
 - the **Business File** and its Changes log
 - the **Voice File** and its Changes log
-- anything in *4 Content* and *5 Library*
+- anything in *4 Content* and *5 Library*. If you cannot see these, ask them to paste their last three pieces
 - every agent file in *1 Agents*, including any the person has added
 
 If the Business File or Voice File does not exist yet, stop and say which agent to run first: "/research" or "/tone".
@@ -39,7 +39,9 @@ If the Business File or Voice File does not exist yet, stop and say which agent 
 1. **Unanswered questions.** Sections marked "To come" or "[Check]" that were never confirmed.
 2. **Missing great input.** Compare what is there against the great input each agent asks for. Name the single most valuable missing item. A transcript of them talking usually beats everything else for the Voice File.
 3. **Stale files.** A Business File or Voice File not updated in four weeks or more, while content is still being written.
-4. **Repeated feedback.** The same correction showing up more than once in a Changes log, or in drafts. That usually means an updated file was not saved back.
+4. **Repeated feedback.** Two different signals:
+   - The same correction more than once **in a Changes log**: the file was saved, but the rule is not working. Propose a sharper, concrete rule (for example "First line under 12 words" instead of "shorter openings") and move it to the top of the Voice File.
+   - The same correction in drafts but **not in the Changes log**: the updated file was not saved back. Remind them how.
 5. **Contradictions.** A file that says two different things, or a file that disagrees with the content they actually published.
 6. **Material not yet read.** Documents sitting in *2 My Business* or *5 Library* that the Business File does not mention.
 7. **Work outside an agent's job.** Requests that keep landing on an agent that was not built for them. That is the signal for a new agent, not for stretching an old one.
@@ -53,7 +55,7 @@ Date: [date]
 ## How the brain is doing
 Business File: Good / Great, last updated [date]
 Voice File: Good / Great, last updated [date]
-Pieces written since last check: [number, if you can tell]
+Last check: [ask them when they last ran /optimise]
 
 ## The three things that would help most
 1. [What you saw] → [what to do] → [which command does it]

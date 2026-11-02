@@ -27,8 +27,8 @@ The files are the connection. Each agent hands its file to the next, your feedba
 
 1. **Download** this folder. On this GitHub page (no account needed), click the green **Code** button, then **Download ZIP**. Unzip it and rename the folder **Business Brain**.
 2. **Open a Project** in Claude or ChatGPT and name it after your business. Step by step guides are in the *Start Here* folder.
-3. **Add the files.** Paste *Start Here/Project Instructions.md* into the Project's instructions, and add the four agent files from *1 Agents* to the Project's files.
-4. **Start.** Type **/research** and your website address.
+3. **Add the files.** Paste *Start Here/Project Instructions.md* into the Project's instructions, and add all five files from *1 Agents* to the Project's files.
+4. **Start.** Type **research** and your website address. The slash is optional.
 
 Using another AI assistant, or no Projects? See *Start Here/Setup for any AI.md*. Using Claude Code or the Claude desktop app? Install it as a plugin with `/plugin marketplace add MENAMarketer/BusinessBrain`, then `/plugin install brain@businessbrain`. Details in *Start Here/Setup for Claude.md*.
 

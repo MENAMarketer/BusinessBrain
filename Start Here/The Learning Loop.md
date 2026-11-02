@@ -15,7 +15,7 @@ Skip step four and the next draft makes the same mistake. That ten second step i
 
 ## Run the Optimiser every Friday
 
-Type **/optimise**. It reads everything in your Business Brain and tells you the three things that would help most: questions you never answered, great input still missing, files that have gone stale, and feedback you keep repeating because a file was not saved back.
+Type **/optimise**. It reads everything in your Business Brain and tells you the three things that would help most: questions you never answered, great input still missing, files that have gone stale, and and feedback you keep repeating. If a correction keeps appearing in the Changes log, the rule needs to be sharper. If it keeps appearing in drafts but never in the log, a file was not saved back.
 
 Nothing in the system runs on its own. Ten minutes on a Friday is what keeps it learning.
 

@@ -7,7 +7,7 @@ Works with Gemini, Copilot, or Claude and ChatGPT without Projects. The commands
 1. Open a new chat.
 2. Paste in the text of *Project Instructions.md*, and attach the agent file you want to use.
 3. Attach your **Business File** and **Voice File** if you have them.
-4. Type the command: **/research**, **/tone**, **/write** or **/optimise**.
+4. Type the command: **research**, **tone**, **write**, **optimise**, or **brain** to see what is in place. The slash is optional.
 
 ## Which agent when
 
