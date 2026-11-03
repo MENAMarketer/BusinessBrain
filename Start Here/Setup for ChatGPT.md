@@ -1,19 +1,20 @@
 # Setup for ChatGPT
 
-About five minutes. Do this on a laptop, signed in to chatgpt.com.
+## The fast way (two minutes)
 
-1. Click **Projects** in the left sidebar, then **New project**.
-2. Name it after your business, for example "Harbour & Co AI System".
-3. Open the project's **instructions** and paste in everything below the line in *Project Instructions.md*. Replace [Business name] with yours.
-4. Open the project's **files** and add all five files from the *1 Agents* folder. Do not add the blank templates.
-5. Start a new chat inside the project and type **research** followed by your website address. The slash is optional: if typing "/" opens a menu, just leave it out.
+1. Go to chatgpt.com and sign in.
+2. Start a new chat.
+3. Drag **Business Brain.md** into the chat.
+4. Type **run brain** and press Enter.
+5. Give it your website when it asks.
 
-## As you go
+## To keep it between chats
 
-- When an agent gives you a **Business File** or **Voice File**, save it in your *Business Brain* folder (*2 My Business* or *3 My Voice*). Before your next chat, add it to the project's files.
-- When an agent gives you an **updated** file, remove the old one from the project's files and add the new one.
-- Start a fresh chat inside the project for each new piece of work. The files carry the memory, so nothing is lost.
+1. Click **Projects**, then create a new project named after your business.
+2. Add **Business Brain.md** to the project's files.
+3. Start a chat inside the project and type **run brain**.
+4. When the agents give you your Business File and Voice File, add those to the project's files too.
 
 ## If it cannot read your website
 
-Some assistants can read websites and some cannot, depending on your plan and settings. If it says it cannot, copy the text of your home page and about page and paste it in. The result is the same.
+Copy the text of your home page and about page and paste it in. The result is the same.

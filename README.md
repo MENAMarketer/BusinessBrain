@@ -23,14 +23,19 @@ Type **/brain** at any time to see what is in place and what to do next.
 
 The files are the connection. Each agent hands its file to the next, your feedback improves both files every time you write, and the Optimiser keeps the whole thing honest.
 
-## Start in four steps
+## Start in three steps
 
-1. **Download** this folder. On this GitHub page (no account needed), click the green **Code** button, then **Download ZIP**. Unzip it and rename the folder **Business Brain**.
-2. **Open a Project** in Claude or ChatGPT and name it after your business. Step by step guides are in the *Start Here* folder.
-3. **Add the files.** Paste *Start Here/Project Instructions.md* into the Project's instructions, and add all five files from *1 Agents* to the Project's files.
-4. **Start.** Type **research** and your website address. The slash is optional.
+1. **Download.** On this page, click the green **Code** button, then **Download ZIP**, and unzip it. No GitHub account needed.
+2. **Drag in one file.** Open a new chat in Claude, ChatGPT, Grok or any AI assistant and drag in **Business Brain.md**.
+3. **Type run brain.** It shows the commands and asks for your website. That is it.
 
-Using another AI assistant, or no Projects? See *Start Here/Setup for any AI.md*. Using Claude Code or the Claude desktop app? Install it as a plugin with `/plugin marketplace add MENAMarketer/BusinessBrain`, then `/plugin install brain@businessbrain`. Details in *Start Here/Setup for Claude.md*.
+**Want it to remember between chats?** Put **Business Brain.md** in a Project's files instead (Claude and ChatGPT both have Projects), then type **run brain** in any chat inside that Project. Add your Business File and Voice File to the same Project once the agents make them.
+
+**Using the Claude desktop app with your folder connected?** Type: read Business Brain.md and run brain. It reads the whole folder and saves your files straight into it.
+
+**No Projects?** Each time, drag in Business Brain.md plus your Business File and Voice File, and type run brain.
+
+Using Claude Code or the Claude desktop app? Install it as a plugin with `/plugin marketplace add MENAMarketer/BusinessBrain`, then `/plugin install brain@businessbrain`. Details in *Start Here/Setup for Claude.md*.
 
 ## Have this ready
 
@@ -47,7 +52,8 @@ Using another AI assistant, or no Projects? See *Start Here/Setup for any AI.md*
 4 Content       drafts and published pieces
 5 Library       reviews, competitor material, research, past work
 Start Here      setup guides, good and great input, the learning loop
-skills          the Claude plugin wiring (you can ignore this)
+Business Brain.md  the whole system in one file: drag this into any AI
+skills, tools   the Claude plugin wiring and the build script (you can ignore these)
 ```
 
 Keep everything in here. It is yours, whichever AI you use.

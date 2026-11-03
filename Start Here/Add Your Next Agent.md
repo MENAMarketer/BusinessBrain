@@ -14,14 +14,9 @@ Pick a job you do every week that follows roughly the same steps. If you cannot 
 4. **A file it produces**, in the same shape every time.
 5. **A handover.** Where the file is saved, and which agent reads it next.
 
-Use *1 Agents/New Agent Template.md* to write it. Then give it a command:
+The quickest way: type **new agent** and the Agent Builder interviews you, one question at a time, and hands you the finished agent as a file. From then on, attach that file alongside Business Brain.md (or keep it in your Project's files) and type its command.
 
-1. Save it in *1 Agents*, for example "5 Pitch Builder.md".
-2. Add it to your project's files.
-3. Add one line to the commands table in your project instructions: `| /pitch | Pitch Builder | 5 Pitch Builder.md | Builds a pitch from the Business File |`
-4. Type **/pitch** to run it.
-
-Using the Claude plugin? See the end of *Setup for Claude.md*.
+You can also write one yourself from *1 Agents/New Agent Template.md*.
 
 ## Ideas for your next agent
 
