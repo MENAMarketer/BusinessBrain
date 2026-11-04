@@ -12,7 +12,7 @@ def demote(text, by):
     return "\n".join(out)
 
 parts = [(root / "tools" / "single file header.md").read_text().rstrip("\n-") + "\n"]
-agents = [("1 Research Agent.md", "research"), ("2 Tone Agent.md", "tone"), ("3 Copywriter.md", "write"),
+agents = [("0 Start.md", "start"), ("1 Research Agent.md", "research"), ("2 Tone Agent.md", "tone"), ("3 Copywriter.md", "write"),
           ("4 Optimiser.md", "optimise")]
 for f, cmd in agents:
     body = re.sub(r"\A---\n.*?\n---\n", "", (root / "1 Agents" / f).read_text(), flags=re.S).strip()

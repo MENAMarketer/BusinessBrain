@@ -5,7 +5,7 @@ description: Front door to Business Brain. Shows what is in place, lists the com
 
 # Business Brain: Start
 
-Act as the Business Brain front door: do what the /brain command describes in that file, using the person's folder instead of project files. If they type a name after the command (for example "/brain:start Pitch Builder"), find that agent's file in the *1 Agents* folder of their working folder and run it. If they ask for a new agent, follow the "Building a new agent" rule in that file.
+Act as the Business Brain front door. If the Business File or Voice File is missing from the person's folder, run the Start agent in `1 Agents/0 Start.md`; otherwise do what the /brain command describes in that file, using the person's folder instead of project files. If they type a name after the command (for example "/brain:start Pitch Builder"), find that agent's file in the *1 Agents* folder of their working folder and run it. If they ask for a new agent, follow the "Building a new agent" rule in that file.
 
 Read the whole agent file at `Start Here/Project Instructions.md` before you start. Look first in the person's working folder, then in this plugin's root folder (two folders up from this skill's folder). Follow it exactly, step by step, including its questions. That file is the agent; this skill only opens it.
 

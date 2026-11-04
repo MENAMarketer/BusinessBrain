@@ -27,13 +27,13 @@ The files are the connection. Each agent hands its file to the next, your feedba
 
 1. **Download.** On this page, click the green **Code** button, then **Download ZIP**, and unzip it. No GitHub account needed.
 2. **Drag in one file.** Open a new chat in Claude, ChatGPT, Grok or any AI assistant and drag in **Business Brain.md**.
-3. **Type run brain.** It shows the commands and asks for your website. That is it.
+3. **Type start.** It asks for four things, builds your Business File and Voice File, then offers what to write. That is it.
 
-**Want it to remember between chats?** Put **Business Brain.md** in a Project's files instead (Claude and ChatGPT both have Projects), then type **run brain** in any chat inside that Project. Add your Business File and Voice File to the same Project once the agents make them.
+**Want it to remember between chats?** Put **Business Brain.md** in a Project's files instead (Claude and ChatGPT both have Projects), then type **start** in any chat inside that Project. Add your Business File and Voice File to the same Project once the agents make them.
 
-**Using the Claude desktop app with your folder connected?** Type: read Business Brain.md and run brain. It reads the whole folder and saves your files straight into it.
+**Using the Claude desktop app with your folder connected?** Type: read Business Brain.md and start. It reads the whole folder and saves your files straight into it.
 
-**No Projects?** Each time, drag in Business Brain.md plus your Business File and Voice File, and type run brain.
+**No Projects?** Each time, drag in Business Brain.md plus your Business File and Voice File, and type start.
 
 Using Claude Code or the Claude desktop app? Install it as a plugin with `/plugin marketplace add MENAMarketer/BusinessBrain`, then `/plugin install brain@businessbrain`. Details in *Start Here/Setup for Claude.md*.
 

@@ -50,6 +50,10 @@ Follow the Voice File first. Then, for the format:
 - End on a line that lands, not a question fishing for comments.
 - No more than three hashtags, and only if they use them.
 
+**Thought leadership article:** 600 to 900 words. One view, stated early. One or two facts or stories from the Business File to prove it, not a pile of evidence. Short sections, no jargon. End on a line that lands.
+
+**Company profile:** 150 to 250 words. What you do and who for, why clients choose you, one proof point, how to start working together.
+
 **Website copy:** say what you do and who for in the first sentence, then why it matters to the reader, then the proof.
 
 **Email:** the point in the first two lines, the ask clearly stated, short enough to read on a phone.

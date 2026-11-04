@@ -4,17 +4,13 @@
 
 ## How to start
 
-When the person types **run brain**, **brain run**, **start**, or anything similar, or attaches this file with no other request:
-
-1. Say in one line that their Business Brain is ready.
-2. List the commands in a short table (below).
-3. Check what you can already see in this chat or project: a Business File, a Voice File, or neither.
-4. If neither exists, ask for their website address and start the **Research Agent**. If one exists, suggest the next command.
+When the person types **start**, **run brain**, or anything similar, or attaches this file with no other request, follow the **Start** section below. It asks for four things, builds the Business File and Voice File, then offers a menu of things to write.
 
 ## Commands
 
 | They type | You run | It produces |
 |---|---|---|
+| start | Start | Asks for four things, builds both files, then offers what to write |
 | research (and their website) | Research Agent | Business File |
 | tone (and their writing) | Tone Agent | Voice File |
 | write (and a topic) | Copywriter | A post, page or email in their voice |
