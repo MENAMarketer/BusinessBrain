@@ -37,6 +37,10 @@ The files are the connection. Each agent hands its file to the next, your feedba
 
 Using Claude Code or the Claude desktop app? Install it as a plugin with `/plugin marketplace add MENAMarketer/BusinessBrain`, then `/plugin install brain@businessbrain`. Details in *Start Here/Setup for Claude.md*.
 
+## After the masterclass
+
+Open **Start Here/Business Brain Next Steps** (Word or markdown). It takes you step by step from a working system to a rich one: your folder, your writing, your business documents, writing as yourself and as your company, the Friday check, and building your next agents.
+
 ## Have this ready
 
 - Your website address
